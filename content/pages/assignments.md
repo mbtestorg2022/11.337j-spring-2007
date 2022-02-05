@@ -10,13 +10,84 @@ Instead, this section contains a different set of assignments, used in the 2005 
 
 In addition, students were required to submit a writeup of the Boston Civic Design Commission meeting that they attended.
 
-| ASSIGNMENTS | FILES |
-| --- | --- |
-| {{< td-colspan 2 >}}**Short exercises**{{< /td-colspan >}} ||
-| Ownership and operation | ([PDF]({{< baseurl >}}/resources/exercise1)) |
-| Regulation | ([PDF]({{< baseurl >}}/resources/exercise2)) |
-| Property rights | ([PDF]({{< baseurl >}}/resources/exercise3)) |
-| Incentives and disincentives | ([PDF]({{< baseurl >}}/resources/exercise4)) |
-| Information | ([PDF]({{< baseurl >}}/resources/exercise5)) |
-| {{< td-colspan 2 >}}**Final paper**{{< /td-colspan >}} ||
-| Paper description | ([PDF]({{< baseurl >}}/resources/final_paper))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Short exercises**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ownership and operation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/exercise1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Regulation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/exercise2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Property rights
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/exercise3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Incentives and disincentives
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/exercise4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Information
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/exercise5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Final paper**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper description
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/final_paper))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
