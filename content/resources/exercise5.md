@@ -6,6 +6,7 @@ description: This exercise is intended to have you focus on the generation and d
   another policy of your choice).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-337j-urban-design-policy-and-action-spring-2007/7bf4194a5dece4551c6667ec2bb856b0_exercise5.pdf
 file_type: application/pdf
+parent_uid: db9ba313-cb4f-8a15-84a2-7a4d2b518a46
 resourcetype: Document
 title: 'Exercise #5: Information: An Example'
 uid: 7bf4194a-5dec-e455-1c66-67ec2bb856b0

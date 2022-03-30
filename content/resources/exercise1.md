@@ -6,6 +6,7 @@ description: This exercise is intended to get you to think about the tool owners
   the reading and before the classroom discussion on this tool.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-337j-urban-design-policy-and-action-spring-2007/c8cdf3240c5e2770a6e8fcbb641d64ce_exercise1.pdf
 file_type: application/pdf
+parent_uid: db9ba313-cb4f-8a15-84a2-7a4d2b518a46
 resourcetype: Document
 title: 'Exercise #1: Thinking about Ownership and Operation: An Example'
 uid: c8cdf324-0c5e-2770-a6e8-fcbb641d64ce
